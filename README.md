@@ -12,8 +12,6 @@ The task is to develop an E-Commerce website similar to platforms like **Amazon*
 ---
 
 ## Technologies Used
-
-## Technologies Used
 [![Languages Used](https://skillicons.dev/icons?i=js,nodejs,express,postgresql,postman,git,github)](https://skillicons.dev)
 
 - **Backend**: Node.js, Express.js
